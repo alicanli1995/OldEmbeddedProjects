@@ -1,0 +1,9 @@
+core_cm4.h:1702:26:ITM_SendChar	16	static
+main.c:16:5:_write	32	static
+main.c:38:5:main	16	static
+main.c:63:6:Setup_Config	8	static
+main.c:68:6:GPIO_Config	8	static
+main.c:80:6:USART_Config	8	static
+main.c:92:6:Send_Message	24	static
+main.c:103:6:Task1_Handler	16	static
+main.c:114:6:Task2_Handler	16	static

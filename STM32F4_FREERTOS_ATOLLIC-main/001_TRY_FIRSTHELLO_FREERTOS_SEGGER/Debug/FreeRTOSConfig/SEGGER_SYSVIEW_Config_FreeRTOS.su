@@ -1,0 +1,2 @@
+SEGGER_SYSVIEW_Config_FreeRTOS.c:97:13:_cbSendSystemDesc	8	static
+SEGGER_SYSVIEW_Config_FreeRTOS.c:108:6:SEGGER_SYSVIEW_Conf	8	static

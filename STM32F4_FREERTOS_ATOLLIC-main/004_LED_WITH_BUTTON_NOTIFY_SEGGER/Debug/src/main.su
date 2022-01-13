@@ -1,0 +1,9 @@
+main.c:21:5:main	16	static
+main.c:40:6:buttonStateTask	24	static
+main.c:50:6:ledTaskFlashTask	32	static
+main.c:63:6:GPIO_Input	8	static
+main.c:77:6:GPIO_Output	8	static
+main.c:88:6:setupConfig	8	static
+main.c:94:6:delay_FreeRTOS	24	static
+main.c:103:6:EVAL_AUDIO_TransferComplete_CallBack	16	static
+main.c:110:10:EVAL_AUDIO_GetSampleCallBack	4	static

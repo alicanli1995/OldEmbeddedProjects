@@ -1,0 +1,10 @@
+core_cm4.h:1452:22:NVIC_EnableIRQ	16	static
+core_cm4.h:1535:22:NVIC_SetPriority	16	static
+main.c:38:5:main	32	static
+main.c:74:6:Master_Task_Handler	40	static
+main.c:94:6:SlaveDoWork	16	static
+main.c:104:6:Slave_Task_Handler	32	static
+main.c:124:6:Setup_Config	8	static
+main.c:129:6:GPIO_Config	8	static
+main.c:141:6:USART_Config	24	static
+main.c:158:6:Send_Message	24	static
